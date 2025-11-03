@@ -1,0 +1,3 @@
+<template>
+  <search></search>
+</template>

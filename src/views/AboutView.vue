@@ -1,15 +1,11 @@
-<template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
-</template>
+<script lang="ts" setup>
+import GenericHeader from '@/components/GenericHeader.vue';
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+</script>
+
+<template>
+  <GenericHeader>
+    <h1 class="text-5xl text-primary-50">About</h1>
+  </GenericHeader>
+  <main></main>
+</template>
