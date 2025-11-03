@@ -4,13 +4,15 @@ import { categories } from '@/assets/data/categories';
 import { ref } from 'vue'
 import SearchBar from '@/components/SearchBar.vue';
 import GenericHeader from '@/components/GenericHeader.vue';
-
+import MapBox from '@/components/Market/MapBox.vue';
+import MapSelectDialog from '@/components/My Market/MapSelectDialog.vue';
+import PalengkeMarker from '@/components/My Market/PalengkeMarker.vue';
 const selectedCategory = ref()
 const select = (title: string) => {
   if (selectedCategory.value === title) return
   selectedCategory.value = title
 }
-
+const isOpen = ref();
 </script>
 
 <template>
@@ -30,6 +32,9 @@ const select = (title: string) => {
             <span>{{ cat.title }}</span>
           </button>
         </div>
+        <MapSelectDialog :open="isOpen">
+          <button class="bg-secondary p-3 w-full text-white font-medium rounded-md">Find Palengke</button>
+        </MapSelectDialog>
       </section>
     </article>
     <article class="space-y-7">
