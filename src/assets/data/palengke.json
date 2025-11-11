@@ -1,0 +1,1596 @@
+[
+  {
+    "id": 1,
+    "name": "Dalandan Public Market",
+    "location": "Dalandan, Valenzuela",
+    "lat": 14.708205,
+    "lng": 120.95897,
+    "products": []
+  },
+  {
+    "id": 2,
+    "name": "Malinta Market",
+    "location": "Malinta, Valenzuela City",
+    "lat": 14.69143,
+    "lng": 120.96481,
+    "products": [
+      {
+        "id": 1,
+        "base_id": 1,
+        "price": [310, 350]
+      },
+      {
+        "id": 2,
+        "base_id": 2,
+        "price": [314, 393]
+      },
+      {
+        "id": 3,
+        "base_id": 3,
+        "price": [227, 300]
+      },
+      {
+        "id": 4,
+        "base_id": 4,
+        "price": [320, 395]
+      },
+      {
+        "id": 5,
+        "base_id": 6,
+        "price": [352, 391]
+      },
+      {
+        "id": 6,
+        "base_id": 7,
+        "price": [422, 519]
+      },
+      {
+        "id": 7,
+        "base_id": 8,
+        "price": [210, 250]
+      },
+      {
+        "id": 8,
+        "base_id": 9,
+        "price": [220]
+      },
+      {
+        "id": 9,
+        "base_id": 10,
+        "price": [145, 147]
+      },
+      {
+        "id": 10,
+        "base_id": 11,
+        "price": [208, 220]
+      },
+      {
+        "id": 11,
+        "base_id": 12,
+        "price": [219, 227]
+      },
+      {
+        "id": 12,
+        "base_id": 13,
+        "price": [8]
+      },
+      {
+        "id": 13,
+        "base_id": 14,
+        "price": [10]
+      },
+
+      {
+        "id": 14,
+        "base_id": 15,
+        "price": [70, 123]
+      },
+      {
+        "id": 15,
+        "base_id": 16,
+        "price": [72, 100]
+      },
+      {
+        "id": 16,
+        "base_id": 17,
+        "price": [80, 112]
+      },
+      {
+        "id": 17,
+        "base_id": 18,
+        "price": [42, 83]
+      },
+      {
+        "id": 18,
+        "base_id": 19,
+        "price": [110, 120]
+      },
+      {
+        "id": 19,
+        "base_id": 20,
+        "price": [285, 350]
+      },
+      {
+        "id": 20,
+        "base_id": 21,
+        "price": [250, 300]
+      },
+      {
+        "id": 21,
+        "base_id": 22,
+        "price": [140, 250]
+      },
+      {
+        "id": 22,
+        "base_id": 23,
+        "price": [70, 98]
+      },
+      {
+        "id": 23,
+        "base_id": 24,
+        "price": [132, 210]
+      },
+      {
+        "id": 24,
+        "base_id": 25,
+        "price": [163, 180]
+      },
+      {
+        "id": 25,
+        "base_id": 26,
+        "price": [146, 170]
+      },
+      {
+        "id": 26,
+        "base_id": 27,
+        "price": [50, 67]
+      },
+      {
+        "id": 27,
+        "base_id": 29,
+        "price": [182, 246]
+      },
+      {
+        "id": 28,
+        "base_id": 31,
+        "price": [67, 78]
+      },
+
+      {
+        "id": 29,
+        "base_id": 32,
+        "price": [282, 300]
+      },
+      {
+        "id": 30,
+        "base_id": 33,
+        "price": [155, 166]
+      },
+      {
+        "id": 31,
+        "base_id": 34,
+        "price": [291, 300]
+      },
+      {
+        "id": 32,
+        "base_id": 35,
+        "price": [140, 180]
+      },
+      {
+        "id": 33,
+        "base_id": 36,
+        "price": [420, 390]
+      },
+      {
+        "id": 34,
+        "base_id": 37,
+        "price": [678]
+      },
+      {
+        "id": 35,
+        "base_id": 38,
+        "price": [750]
+      },
+      {
+        "id": 36,
+        "base_id": 43,
+        "price": [490, 580]
+      },
+      {
+        "id": 37,
+        "base_id": 44,
+        "price": [930]
+      },
+      {
+        "id": 38,
+        "base_id": 45,
+        "price": [850]
+      },
+      {
+        "id": 39,
+        "base_id": 46,
+        "price": [219]
+      },
+      {
+        "id": 40,
+        "base_id": 47,
+        "price": [250]
+      },
+      {
+        "id": 41,
+        "base_id": 48,
+        "price": []
+      },
+
+      {
+        "id": 42,
+        "base_id": 49,
+        "price": [70, 140]
+      },
+      {
+        "id": 43,
+        "base_id": 50,
+        "price": [70, 120]
+      },
+      {
+        "id": 44,
+        "base_id": 51,
+        "price": [50, 80]
+      },
+      {
+        "id": 45,
+        "base_id": 52,
+        "price": [70, 90]
+      },
+      {
+        "id": 46,
+        "base_id": 53,
+        "price": [139, 200]
+      },
+      {
+        "id": 47,
+        "base_id": 54,
+        "price": [350, 424]
+      },
+      {
+        "id": 48,
+        "base_id": 55,
+        "price": [130, 140]
+      },
+      {
+        "id": 49,
+        "base_id": 56,
+        "price": [160, 167]
+      },
+      {
+        "id": 50,
+        "base_id": 57,
+        "price": [80, 90]
+      },
+      {
+        "id": 51,
+        "base_id": 58,
+        "price": [57]
+      },
+      {
+        "id": 52,
+        "base_id": 59,
+        "price": [845, 875]
+      },
+      {
+        "id": 53,
+        "base_id": 63,
+        "price": [275]
+      },
+      {
+        "id": 54,
+        "base_id": 64,
+        "price": [54]
+      },
+
+      {
+        "id": 55,
+        "base_id": 66,
+        "price": [52, 58]
+      },
+      {
+        "id": 56,
+        "base_id": 67,
+        "price": [60]
+      },
+      {
+        "id": 57,
+        "base_id": 68,
+        "price": [32, 38]
+      },
+      {
+        "id": 58,
+        "base_id": 69,
+        "price": [38]
+      },
+      {
+        "id": 59,
+        "base_id": 70,
+        "price": [47, 54]
+      },
+      {
+        "id": 60,
+        "base_id": 71,
+        "price": [50, 56]
+      },
+      {
+        "id": 61,
+        "base_id": 72,
+        "price": [60]
+      },
+      {
+        "id": 62,
+        "base_id": 73,
+        "price": [89, 100]
+      },
+      {
+        "id": 63,
+        "base_id": 74,
+        "price": [62]
+      },
+      {
+        "id": 64,
+        "base_id": 75,
+        "price": [80]
+      },
+      {
+        "id": 65,
+        "base_id": 76,
+        "price": [180, 250]
+      },
+      {
+        "id": 66,
+        "base_id": 77,
+        "price": [155, 200]
+      },
+      {
+        "id": 67,
+        "base_id": 78,
+        "price": [355, 400]
+      },
+      {
+        "id": 68,
+        "base_id": 79,
+        "price": [134, 145]
+      },
+      {
+        "id": 69,
+        "base_id": 80,
+        "price": [112, 120]
+      },
+      {
+        "id": 70,
+        "base_id": 81,
+        "price": [100, 120]
+      },
+      {
+        "id": 71,
+        "base_id": 82,
+        "price": [21]
+      },
+      {
+        "id": 72,
+        "base_id": 83,
+        "price": [37]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kadiwa Market",
+    "location": "Malanday, Valenzuela City",
+    "lat": 14.71319,
+    "lng": 120.95871,
+    "products": [
+      {
+        "id": 1,
+        "base_id": 1,
+        "price": [309, 350]
+      },
+      {
+        "id": 2,
+        "base_id": 2,
+        "price": [314, 394]
+      },
+      {
+        "id": 3,
+        "base_id": 3,
+        "price": [236, 300]
+      },
+      {
+        "id": 4,
+        "base_id": 4,
+        "price": [320, 400]
+      },
+      {
+        "id": 5,
+        "base_id": 5,
+        "price": [280, 380]
+      },
+      {
+        "id": 6,
+        "base_id": 6,
+        "price": [347, 391]
+      },
+      {
+        "id": 7,
+        "base_id": 7,
+        "price": [421, 517]
+      },
+      {
+        "id": 8,
+        "base_id": 8,
+        "price": [210, 250]
+      },
+      {
+        "id": 9,
+        "base_id": 9,
+        "price": [220]
+      },
+      {
+        "id": 10,
+        "base_id": 10,
+        "price": [143, 147]
+      },
+      {
+        "id": 11,
+        "base_id": 11,
+        "price": [208, 220]
+      },
+      {
+        "id": 12,
+        "base_id": 12,
+        "price": [218, 221]
+      },
+      {
+        "id": 13,
+        "base_id": 13,
+        "price": [8]
+      },
+      {
+        "id": 14,
+        "base_id": 14,
+        "price": [10]
+      },
+
+      {
+        "id": 15,
+        "base_id": 15,
+        "price": [73, 100]
+      },
+      {
+        "id": 16,
+        "base_id": 16,
+        "price": [82, 110]
+      },
+      {
+        "id": 17,
+        "base_id": 17,
+        "price": [40, 76]
+      },
+      {
+        "id": 18,
+        "base_id": 18,
+        "price": [100, 120]
+      },
+      {
+        "id": 19,
+        "base_id": 19,
+        "price": [280, 350]
+      },
+      {
+        "id": 20,
+        "base_id": 20,
+        "price": [249, 308]
+      },
+      {
+        "id": 21,
+        "base_id": 21,
+        "price": [121, 251]
+      },
+      {
+        "id": 22,
+        "base_id": 22,
+        "price": [79, 100]
+      },
+      {
+        "id": 23,
+        "base_id": 23,
+        "price": [140, 210]
+      },
+      {
+        "id": 24,
+        "base_id": 24,
+        "price": [162, 176]
+      },
+      {
+        "id": 25,
+        "base_id": 25,
+        "price": [160, 170]
+      },
+      {
+        "id": 26,
+        "base_id": 26,
+        "price": [50, 69]
+      },
+      {
+        "id": 27,
+        "base_id": 27,
+        "price": [267, 300]
+      },
+      {
+        "id": 28,
+        "base_id": 28,
+        "price": [197, 250]
+      },
+      {
+        "id": 29,
+        "base_id": 31,
+        "price": [63, 76]
+      },
+      {
+        "id": 16,
+        "base_id": 16,
+        "price": [73, 100]
+      },
+      {
+        "id": 17,
+        "base_id": 17,
+        "price": [82, 110]
+      },
+      {
+        "id": 18,
+        "base_id": 18,
+        "price": [40, 76]
+      },
+      {
+        "id": 19,
+        "base_id": 19,
+        "price": [100, 120]
+      },
+      {
+        "id": 20,
+        "base_id": 20,
+        "price": [280, 350]
+      },
+      {
+        "id": 21,
+        "base_id": 21,
+        "price": [249, 308]
+      },
+      {
+        "id": 22,
+        "base_id": 22,
+        "price": [121, 251]
+      },
+      {
+        "id": 23,
+        "base_id": 23,
+        "price": [79, 100]
+      },
+      {
+        "id": 24,
+        "base_id": 24,
+        "price": [140, 210]
+      },
+      {
+        "id": 25,
+        "base_id": 25,
+        "price": [162, 176]
+      },
+      {
+        "id": 26,
+        "base_id": 26,
+        "price": [160, 170]
+      },
+      {
+        "id": 27,
+        "base_id": 27,
+        "price": [50, 69]
+      },
+      {
+        "id": 28,
+        "base_id": 28,
+        "price": [267, 300]
+      },
+      {
+        "id": 29,
+        "base_id": 29,
+        "price": [197, 250]
+      },
+      {
+        "id": 31,
+        "base_id": 30,
+        "price": [63, 76]
+      },
+
+      {
+        "id": 32,
+        "base_id": 31,
+        "price": [279, 300]
+      },
+      {
+        "id": 33,
+        "base_id": 32,
+        "price": [159, 170]
+      },
+      {
+        "id": 34,
+        "base_id": 33,
+        "price": [292, 300]
+      },
+      {
+        "id": 35,
+        "base_id": 34,
+        "price": [380, 390]
+      },
+      {
+        "id": 36,
+        "base_id": 36,
+        "price": [678]
+      },
+      {
+        "id": 37,
+        "base_id": 37,
+        "price": [750]
+      },
+      {
+        "id": 38,
+        "base_id": 41,
+        "price": [795]
+      },
+      {
+        "id": 39,
+        "base_id": 42,
+        "price": [725]
+      },
+      {
+        "id": 40,
+        "base_id": 43,
+        "price": [566, 580]
+      },
+      {
+        "id": 41,
+        "base_id": 44,
+        "price": [930]
+      },
+      {
+        "id": 42,
+        "base_id": 45,
+        "price": [850]
+      },
+      {
+        "id": 43,
+        "base_id": 46,
+        "price": [219]
+      },
+      {
+        "id": 44,
+        "base_id": 47,
+        "price": [250]
+      },
+      {
+        "id": 45,
+        "base_id": 48,
+        "price": [290]
+      },
+
+      {
+        "id": 46,
+        "base_id": 49,
+        "price": [130, 140]
+      },
+      {
+        "id": 47,
+        "base_id": 50,
+        "price": [105, 120]
+      },
+      {
+        "id": 48,
+        "base_id": 51,
+        "price": [65, 80]
+      },
+      {
+        "id": 49,
+        "base_id": 52,
+        "price": [70, 87]
+      },
+      {
+        "id": 50,
+        "base_id": 53,
+        "price": [174, 200]
+      },
+      {
+        "id": 51,
+        "base_id": 54,
+        "price": [400, 425]
+      },
+      {
+        "id": 52,
+        "base_id": 55,
+        "price": [120, 140]
+      },
+      {
+        "id": 53,
+        "base_id": 56,
+        "price": [162, 170]
+      },
+      {
+        "id": 54,
+        "base_id": 57,
+        "price": [79, 90]
+      },
+      {
+        "id": 55,
+        "base_id": 58,
+        "price": [57]
+      },
+      {
+        "id": 56,
+        "base_id": 60,
+        "price": [865, 875]
+      },
+      {
+        "id": 57,
+        "base_id": 61,
+        "price": [38]
+      },
+      {
+        "id": 58,
+        "base_id": 63,
+        "price": [275]
+      },
+      {
+        "id": 59,
+        "base_id": 64,
+        "price": [54]
+      },
+      {
+        "id": 60,
+        "base_id": 65,
+        "price": [1290]
+      },
+      {
+        "id": 61,
+        "base_id": 66,
+        "price": [53, 58]
+      },
+      {
+        "id": 62,
+        "base_id": 67,
+        "price": [60]
+      },
+      {
+        "id": 63,
+        "base_id": 68,
+        "price": [30, 38]
+      },
+      {
+        "id": 64,
+        "base_id": 69,
+        "price": [38]
+      },
+      {
+        "id": 65,
+        "base_id": 70,
+        "price": [39, 54]
+      },
+      {
+        "id": 66,
+        "base_id": 71,
+        "price": [50, 57]
+      },
+      {
+        "id": 67,
+        "base_id": 72,
+        "price": [60]
+      },
+      {
+        "id": 68,
+        "base_id": 73,
+        "price": [85, 95]
+      },
+      {
+        "id": 69,
+        "base_id": 74,
+        "price": [62]
+      },
+      {
+        "id": 70,
+        "base_id": 75,
+        "price": [80]
+      },
+      {
+        "id": 71,
+        "base_id": 76,
+        "price": [198, 250]
+      },
+      {
+        "id": 72,
+        "base_id": 77,
+        "price": [156, 200]
+      },
+      {
+        "id": 73,
+        "base_id": 78,
+        "price": [390, 400]
+      },
+      {
+        "id": 74,
+        "base_id": 79,
+        "price": [130, 145]
+      },
+      {
+        "id": 75,
+        "base_id": 80,
+        "price": [100, 120]
+      },
+      {
+        "id": 76,
+        "base_id": 81,
+        "price": [65, 120]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Malanday Market",
+    "location": "Malanday, Valenzuela City",
+    "lat": 14.71756,
+    "lng": 120.95643,
+    "products": [
+      {
+        "id": 1,
+        "base_id": 1,
+        "price": [302, 350]
+      },
+      {
+        "id": 2,
+        "base_id": 2,
+        "price": [315, 390]
+      },
+      {
+        "id": 3,
+        "base_id": 3,
+        "price": [233, 295]
+      },
+      {
+        "id": 4,
+        "base_id": 4,
+        "price": [320, 400]
+      },
+      {
+        "id": 5,
+        "base_id": 5,
+        "price": [282, 379]
+      },
+      {
+        "id": 6,
+        "base_id": 6,
+        "price": [353, 399]
+      },
+      {
+        "id": 7,
+        "base_id": 8,
+        "price": [210, 250]
+      },
+      {
+        "id": 8,
+        "base_id": 9,
+        "price": [220]
+      },
+      {
+        "id": 9,
+        "base_id": 10,
+        "price": [145, 142]
+      },
+      {
+        "id": 10,
+        "base_id": 11,
+        "price": [210, 219]
+      },
+      {
+        "id": 11,
+        "base_id": 12,
+        "price": [220, 226]
+      },
+      {
+        "id": 12,
+        "base_id": 13,
+        "price": [8]
+      },
+      {
+        "id": 13,
+        "base_id": 14,
+        "price": [10]
+      },
+
+      {
+        "id": 14,
+        "base_id": 15,
+        "price": [123, 120]
+      },
+      {
+        "id": 15,
+        "base_id": 16,
+        "price": [96, 100]
+      },
+      {
+        "id": 16,
+        "base_id": 17,
+        "price": [88, 110]
+      },
+      {
+        "id": 17,
+        "base_id": 18,
+        "price": [40, 76]
+      },
+      {
+        "id": 18,
+        "base_id": 19,
+        "price": [112, 120]
+      },
+      {
+        "id": 19,
+        "base_id": 20,
+        "price": [333, 362]
+      },
+      {
+        "id": 20,
+        "base_id": 21,
+        "price": [238, 310]
+      },
+      {
+        "id": 21,
+        "base_id": 23,
+        "price": [89, 100]
+      },
+      {
+        "id": 22,
+        "base_id": 24,
+        "price": [182, 210]
+      },
+      {
+        "id": 23,
+        "base_id": 25,
+        "price": [167, 180]
+      },
+      {
+        "id": 24,
+        "base_id": 26,
+        "price": [140, 164]
+      },
+      {
+        "id": 25,
+        "base_id": 27,
+        "price": [60, 70]
+      },
+      {
+        "id": 26,
+        "base_id": 28,
+        "price": [250, 300]
+      },
+      {
+        "id": 27,
+        "base_id": 29,
+        "price": [180, 250]
+      },
+      {
+        "id": 28,
+        "base_id": 30,
+        "price": [180, 219]
+      },
+      {
+        "id": 29,
+        "base_id": 31,
+        "price": [70, 80]
+      },
+
+      {
+        "id": 30,
+        "base_id": 32,
+        "price": [280, 300]
+      },
+      {
+        "id": 31,
+        "base_id": 33,
+        "price": [167, 170]
+      },
+      {
+        "id": 32,
+        "base_id": 34,
+        "price": [280, 299]
+      },
+      {
+        "id": 33,
+        "base_id": 35,
+        "price": [277, 287]
+      },
+      {
+        "id": 34,
+        "base_id": 42,
+        "price": [725]
+      },
+      {
+        "id": 35,
+        "base_id": 43,
+        "price": [500, 578]
+      },
+      {
+        "id": 36,
+        "base_id": 44,
+        "price": [930]
+      },
+      {
+        "id": 37,
+        "base_id": 45,
+        "price": [850]
+      },
+
+      {
+        "id": 38,
+        "base_id": 49,
+        "price": [102, 140]
+      },
+      {
+        "id": 39,
+        "base_id": 50,
+        "price": [110, 120]
+      },
+      {
+        "id": 40,
+        "base_id": 51,
+        "price": [50, 80]
+      },
+      {
+        "id": 41,
+        "base_id": 52,
+        "price": [70, 90]
+      },
+      {
+        "id": 42,
+        "base_id": 53,
+        "price": [120, 200]
+      },
+      {
+        "id": 43,
+        "base_id": 54,
+        "price": [350, 425]
+      },
+      {
+        "id": 44,
+        "base_id": 55,
+        "price": [120, 140]
+      },
+      {
+        "id": 45,
+        "base_id": 56,
+        "price": [120, 170]
+      },
+      {
+        "id": 46,
+        "base_id": 57,
+        "price": [70, 90]
+      },
+      {
+        "id": 47,
+        "base_id": 58,
+        "price": [57]
+      },
+      {
+        "id": 48,
+        "base_id": 59,
+        "price": [74]
+      },
+      {
+        "id": 49,
+        "base_id": 61,
+        "price": [38]
+      },
+      {
+        "id": 50,
+        "base_id": 62,
+        "price": [390]
+      },
+      {
+        "id": 51,
+        "base_id": 63,
+        "price": [275]
+      },
+      {
+        "id": 52,
+        "base_id": 64,
+        "price": [54]
+      },
+
+      {
+        "id": 53,
+        "base_id": 66,
+        "price": [53, 57]
+      },
+      {
+        "id": 54,
+        "base_id": 67,
+        "price": [60]
+      },
+      {
+        "id": 55,
+        "base_id": 68,
+        "price": [30, 37]
+      },
+      {
+        "id": 56,
+        "base_id": 69,
+        "price": [38]
+      },
+      {
+        "id": 57,
+        "base_id": 70,
+        "price": [39, 55]
+      },
+      {
+        "id": 58,
+        "base_id": 71,
+        "price": [50, 58]
+      },
+      {
+        "id": 59,
+        "base_id": 72,
+        "price": [60]
+      },
+      {
+        "id": 60,
+        "base_id": 73,
+        "price": [95, 100]
+      },
+      {
+        "id": 61,
+        "base_id": 74,
+        "price": [62]
+      },
+      {
+        "id": 62,
+        "base_id": 75,
+        "price": [80]
+      },
+
+      {
+        "id": 63,
+        "base_id": 76,
+        "price": [244, 250]
+      },
+      {
+        "id": 64,
+        "base_id": 77,
+        "price": [122, 200]
+      },
+      {
+        "id": 65,
+        "base_id": 78,
+        "price": [356, 400]
+      },
+      {
+        "id": 66,
+        "base_id": 79,
+        "price": [110, 138]
+      },
+      {
+        "id": 67,
+        "base_id": 80,
+        "price": [115, 120]
+      },
+      {
+        "id": 68,
+        "base_id": 81,
+        "price": [100, 120]
+      },
+      {
+        "id": 69,
+        "base_id": 82,
+        "price": [20]
+      },
+      {
+        "id": 70,
+        "base_id": 83,
+        "price": [37]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Polo Public Market",
+    "location": "Polo, Valenzuela City",
+    "lat": 14.70855,
+    "lng": 120.9475,
+    "products": [
+      {
+        "id": 1,
+        "base_id": 1,
+        "price": [299, 349]
+      },
+      {
+        "id": 2,
+        "base_id": 2,
+        "price": [314, 390]
+      },
+      {
+        "id": 3,
+        "base_id": 3,
+        "price": [232, 300]
+      },
+      {
+        "id": 4,
+        "base_id": 4,
+        "price": [324, 397]
+      },
+      {
+        "id": 5,
+        "base_id": 6,
+        "price": [353, 400]
+      },
+      {
+        "id": 6,
+        "base_id": 7,
+        "price": [423, 520]
+      },
+      {
+        "id": 7,
+        "base_id": 8,
+        "price": [208, 248]
+      },
+      {
+        "id": 8,
+        "base_id": 9,
+        "price": [220]
+      },
+      {
+        "id": 9,
+        "base_id": 10,
+        "price": [146, 147]
+      },
+      {
+        "id": 10,
+        "base_id": 11,
+        "price": [205, 220]
+      },
+      {
+        "id": 11,
+        "base_id": 12,
+        "price": [220, 228]
+      },
+      {
+        "id": 12,
+        "base_id": 13,
+        "price": [8]
+      },
+      {
+        "id": 13,
+        "base_id": 14,
+        "price": [10]
+      },
+
+      {
+        "id": 14,
+        "base_id": 15,
+        "price": [122, 120]
+      },
+      {
+        "id": 15,
+        "base_id": 16,
+        "price": [69, 100]
+      },
+      {
+        "id": 16,
+        "base_id": 17,
+        "price": [89, 110]
+      },
+      {
+        "id": 17,
+        "base_id": 18,
+        "price": [77, 80]
+      },
+      {
+        "id": 18,
+        "base_id": 19,
+        "price": [113, 120]
+      },
+      {
+        "id": 19,
+        "base_id": 20,
+        "price": [310, 350]
+      },
+      {
+        "id": 20,
+        "base_id": 21,
+        "price": [288, 310]
+      },
+      {
+        "id": 21,
+        "base_id": 22,
+        "price": [244, 250]
+      },
+      {
+        "id": 22,
+        "base_id": 23,
+        "price": [80, 100]
+      },
+      {
+        "id": 23,
+        "base_id": 24,
+        "price": [130, 207]
+      },
+      {
+        "id": 24,
+        "base_id": 25,
+        "price": [179, 180]
+      },
+      {
+        "id": 25,
+        "base_id": 26,
+        "price": [140, 170]
+      },
+      {
+        "id": 26,
+        "base_id": 27,
+        "price": [59, 70]
+      },
+      {
+        "id": 27,
+        "base_id": 28,
+        "price": [268, 300]
+      },
+      {
+        "id": 28,
+        "base_id": 29,
+        "price": [192, 250]
+      },
+      {
+        "id": 29,
+        "base_id": 30,
+        "price": [158, 220]
+      },
+      {
+        "id": 30,
+        "base_id": 31,
+        "price": [76, 80]
+      },
+
+      {
+        "id": 31,
+        "base_id": 32,
+        "price": [210, 260]
+      },
+      {
+        "id": 32,
+        "base_id": 33,
+        "price": [160, 170]
+      },
+      {
+        "id": 33,
+        "base_id": 34,
+        "price": [280, 288]
+      },
+      {
+        "id": 34,
+        "base_id": 35,
+        "price": [167, 200]
+      },
+      {
+        "id": 35,
+        "base_id": 36,
+        "price": [390, 418]
+      },
+      {
+        "id": 36,
+        "base_id": 37,
+        "price": [678]
+      },
+      {
+        "id": 37,
+        "base_id": 38,
+        "price": [750]
+      },
+      {
+        "id": 38,
+        "base_id": 41,
+        "price": [795]
+      },
+      {
+        "id": 39,
+        "base_id": 42,
+        "price": [725]
+      },
+      {
+        "id": 40,
+        "base_id": 43,
+        "price": [555, 560]
+      },
+      {
+        "id": 41,
+        "base_id": 44,
+        "price": [930]
+      },
+      {
+        "id": 42,
+        "base_id": 45,
+        "price": [850]
+      },
+      {
+        "id": 43,
+        "base_id": 46,
+        "price": [219]
+      },
+      {
+        "id": 44,
+        "base_id": 47,
+        "price": [250]
+      },
+      {
+        "id": 45,
+        "base_id": 48,
+        "price": [290]
+      },
+
+      {
+        "id": 46,
+        "base_id": 49,
+        "price": [70, 140]
+      },
+      {
+        "id": 47,
+        "base_id": 50,
+        "price": [70, 120]
+      },
+      {
+        "id": 48,
+        "base_id": 51,
+        "price": [50, 80]
+      },
+      {
+        "id": 49,
+        "base_id": 52,
+        "price": [88, 90]
+      },
+      {
+        "id": 50,
+        "base_id": 53,
+        "price": [178, 200]
+      },
+      {
+        "id": 51,
+        "base_id": 54,
+        "price": [420, 425]
+      },
+      {
+        "id": 52,
+        "base_id": 55,
+        "price": [138, 140]
+      },
+      {
+        "id": 53,
+        "base_id": 56,
+        "price": [167, 170]
+      },
+      {
+        "id": 54,
+        "base_id": 57,
+        "price": [83, 90]
+      },
+      {
+        "id": 55,
+        "base_id": 58,
+        "price": [57]
+      },
+      {
+        "id": 56,
+        "base_id": 59,
+        "price": [74]
+      },
+      {
+        "id": 57,
+        "base_id": 60,
+        "price": [865, 875]
+      },
+      {
+        "id": 58,
+        "base_id": 61,
+        "price": [38]
+      },
+      {
+        "id": 59,
+        "base_id": 63,
+        "price": [275]
+      },
+      {
+        "id": 60,
+        "base_id": 64,
+        "price": [54]
+      },
+      {
+        "id": 61,
+        "base_id": 66,
+        "price": [53, 58]
+      },
+      {
+        "id": 62,
+        "base_id": 67,
+        "price": [60]
+      },
+      {
+        "id": 63,
+        "base_id": 68,
+        "price": [32, 37]
+      },
+      {
+        "id": 64,
+        "base_id": 69,
+        "price": [39]
+      },
+      {
+        "id": 65,
+        "base_id": 70,
+        "price": [44, 54]
+      },
+      {
+        "id": 66,
+        "base_id": 71,
+        "price": [51, 58]
+      },
+      {
+        "id": 67,
+        "base_id": 72,
+        "price": [59]
+      },
+      {
+        "id": 68,
+        "base_id": 73,
+        "price": [87, 100]
+      },
+      {
+        "id": 69,
+        "base_id": 74,
+        "price": [62]
+      },
+      {
+        "id": 70,
+        "base_id": 75,
+        "price": [80]
+      },
+      {
+        "id": 71,
+        "base_id": 76,
+        "price": [180, 246]
+      },
+      {
+        "id": 72,
+        "base_id": 77,
+        "price": [178, 200]
+      },
+      {
+        "id": 73,
+        "base_id": 78,
+        "price": [350, 400]
+      },
+      {
+        "id": 74,
+        "base_id": 79,
+        "price": [125, 145]
+      },
+      {
+        "id": 75,
+        "base_id": 80,
+        "price": [100, 118]
+      },
+      {
+        "id": 76,
+        "base_id": 81,
+        "price": [89, 120]
+      }
+    ]
+  }
+]

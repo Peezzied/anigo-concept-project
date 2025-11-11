@@ -19,7 +19,7 @@ const forwarded = useForwardPropsEmits(delegatedProps, emits)
     <CalendarHeader>
       <CalendarHeading />
 
-      <div class="flex items-center gap-1">
+      <div class="flex items-center gap-1 *:border-black/20 *:hover:bg-gray-100">
         <CalendarPrevButton />
         <CalendarNextButton />
       </div>
@@ -29,7 +29,7 @@ const forwarded = useForwardPropsEmits(delegatedProps, emits)
       <CalendarGrid v-for="month in grid" :key="month.value.toString()">
         <CalendarGridHead>
           <CalendarGridRow>
-            <CalendarHeadCell v-for="day in weekDays" :key="day">
+            <CalendarHeadCell class="text-accent font-semibold" v-for="day in weekDays" :key="day">
               {{ day }}
             </CalendarHeadCell>
           </CalendarGridRow>
@@ -37,7 +37,7 @@ const forwarded = useForwardPropsEmits(delegatedProps, emits)
         <CalendarGridBody>
           <CalendarGridRow v-for="(weekDates, index) in month.rows" :key="`weekDate-${index}`" class="mt-2 w-full">
             <CalendarCell v-for="weekDate in weekDates" :key="weekDate.toString()" :date="weekDate">
-              <CalendarCellTrigger :day="weekDate" :month="month.value" class="hover:bg-primary hover:text-primary-foreground dark:hover:bg-primary/50 [&[data-today]:not([data-selected])]:bg-primary! [&[data-today]:not([data-selected])]:text-white!" />
+              <CalendarCellTrigger :day="weekDate" :month="month.value" class="hover:bg-accent/7 cursor-pointer [&[data-today]:not([data-selected])]:bg-accent/7! " />
             </CalendarCell>
           </CalendarGridRow>
         </CalendarGridBody>

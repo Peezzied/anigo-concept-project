@@ -7,6 +7,7 @@ import StartBrowsing from '@/components/Home/StartBrowsing.vue';
 import StepsSection from '@/components/Home/StepsSection.vue';
 import NavigationBar from '@/components/NavigationBar.vue';
 import { onMounted, onUnmounted, ref } from 'vue';
+import SearchBar from '@/components/SearchBar.vue';
 
 const aboutImg = {
   img: new URL('@/assets/img/vendor-1.png', import.meta.url).href,
@@ -53,10 +54,11 @@ onUnmounted(() => {
   <header ref="excludeElement" class="grid grid-rows-[auto_1fr] h-screen max-h-[1000px] mb-30">
     <NavigationBar />
     <section
-      class="bg-primary relative overflow-hidden mx-8 mb-8 rounded-[56px] flex flex-col items-center justify-center">
-      <div class="text-primary-50 flex-1 flex items-center justify-center flex-col">
-        <h1 class="text-5xl font-heading font-semibold text-center ">What's in my <span><img
+      class="bg-radial from-primary to-[#10592B] from-[45%] to-[84%] relative overflow-hidden mx-8 mb-8 rounded-[56px] flex flex-col items-center justify-center after:absolute after:content-[''] after:bg-[url('.././assets/img/header_bg.png')] after:-z-0 after:bg-cover after:inset-0">
+      <div class="text-primary-50 flex-1 flex items-center justify-center gap-10 mt-20 flex-col relative z-30">
+        <h1 class="text-5xl font-heading font-semibold text-center">What's in my <span><img
               src=".././assets/icons/Subtract.svg" class="inline"></span> today?</h1>
+        <SearchBar class="max-w-170"/>
         <p class="text-center max-w-xl mx-auto">Skip the commute, not the freshness. Browse products from your local
           palengke, order what you need, and choose
           delivery or pickup. Fresh ingredients from trusted vendors, now just a click away</p>
@@ -72,7 +74,7 @@ onUnmounted(() => {
     <StepsSection />
     <ContactCta title="Need help or want to partner with us?"
       description="Whether you have questions, feedback, or you're a vendor wanting to reach more customers, we're ready to connect. Join us in making local palengkes more accessible to everyone in the community"
-      button="Get in Touch" :img="contactImg.img" :icon="contactImg.icon"/>
+      button="Get in Touch" :img="contactImg.img" :icon="contactImg.icon" />
     <AdSection />
   </main>
 </template>

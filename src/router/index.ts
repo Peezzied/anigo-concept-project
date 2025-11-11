@@ -13,7 +13,7 @@ const router = createRouter({
   {
     path: "/market",
     name: "Market",
-    component: () => import("@/views/MarketView.vue"),
+    component: () => import(/* webpackPrefetch: true */ "@/views/MarketView.vue" ),
     meta: { isNavigation: true },
   },
   {
@@ -22,19 +22,19 @@ const router = createRouter({
     // route level code-splitting
     // this generates a separate chunk (About.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import("../views/AboutView.vue"),
+    component: () => import(/* webpackPrefetch: true */ "../views/AboutView.vue"),
     meta: { isNavigation: true },
   },
   {
     path: "/contact",
     name: "Contact",
-    component: HomeView,
+    component: () => import(/* webpackPrefetch: true */ "@/views/ContactView.vue"),
     meta: { isNavigation: true },
   },
     {
     path: "/my-basket",
     name: "My Basket",
-    component: () => import("@/views/MyBasket.vue"),
+    component: () => import(/* webpackPrefetch: true */ "@/views/MyBasketView.vue"),
   },
 ]
 });

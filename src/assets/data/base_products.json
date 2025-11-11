@@ -1,0 +1,597 @@
+[
+    {
+        "id": 1,
+        "category": 3,
+        "name": "Pork Liempo",
+        "price": [300, 350],
+        "unit": "kg"
+    },
+    {
+        "id": 2,
+        "category": 3,
+        "name": "Pork Chop",
+        "price": [314, 395],
+        "unit": "kg"
+    },
+    {
+        "id": 3,
+        "category": 3,
+        "name": "Pork Kasim",
+        "price": [230, 300],
+        "unit": "kg"
+    },
+    {
+        "id": 4,
+        "category": 3,
+        "name": "Pork Belly",
+        "price": [320, 400],
+        "unit": "kg"
+    },
+    {
+        "id": 5,
+        "category": 3,
+        "name": "Pork Ham",
+        "price": [280, 380],
+        "unit": "kg"
+    },
+    {
+        "id": 6,
+        "category": 3,
+        "name": "Beef Brisket",
+        "price": [350,400],
+        "unit": "kg"
+    },
+    {
+        "id": 7,
+        "category": 3,
+        "name": "Beef Rump",
+        "price": [420,520],
+        "unit": "kg"
+    },
+    {
+        "id": 8,
+        "category": 3,
+        "name": "Chicken Whole",
+        "price": [210,250],
+        "unit": "kg"
+    },
+    {
+        "id": 9,
+        "category": 3,
+        "name": "Chicken Breast",
+        "price": [220],
+        "unit": "kg"
+    },
+    {
+        "id": 10,
+        "category": 3,
+        "name": "Chicken Feet",
+        "price": [145,147],
+        "unit": "kg"
+    },
+    {
+        "id": 11,
+        "category": 3,
+        "name": "Chicken Leg",
+        "price": [208,220],
+        "unit": "kg"
+    },
+    {
+        "id": 12,
+        "category": 3,
+        "name": "Chicken Wing",
+        "price": [219,227],
+        "unit": "kg"
+    },
+    {
+        "id": 13,
+        "category": 3,
+        "name": "Medium Egg",
+        "price": [8],
+        "unit": "pc"
+    },
+    {
+        "id": 14,
+        "category": 3,
+        "name": "Large Egg",
+        "price": [10],
+        "unit": "pc"
+    },
+
+
+    {
+        "id": 15,
+        "category": 1,
+        "name": "Ampalaya",
+        "price": [70, 120],
+        "unit": "kg"
+    },
+    {
+        "id": 16,
+        "category": 1,
+        "name": "Sitao",
+        "price": [70, 100],
+        "unit": "kg"
+    },
+    {
+        "id": 17,
+        "category": 1,
+        "name": "Pechay Tagalog",
+        "price": [80, 110],
+        "unit": "kg"
+    },
+    {
+        "id": 18,
+        "category": 1,
+        "name": "Kalabasa",
+        "price": [40,80],
+        "unit": "kg"
+    },
+    {
+        "id": 19,
+        "category": 1,
+        "name": "Kamatis",
+        "price": [100, 120],
+        "unit": "kg"
+    },
+    {
+        "id": 20,
+        "category": 1,
+        "name": "Green Bell pepper",
+        "price": [280,350],
+        "unit": "kg"
+    },
+    {
+        "id": 21,
+        "category": 1,
+        "name": "Red Bell pepper",
+        "price": [250,310],
+        "unit": "kg"
+    },
+    {
+        "id": 22,
+        "category": 1,
+        "name": "Broccoli",
+        "price": [120,250],
+        "unit": "kg"
+    },
+    {
+        "id": 23,
+        "category": 1,
+        "name": "Cabbage",
+        "price": [70,100],
+        "unit": "kg"
+    },
+    {
+        "id": 24,
+        "category": 1,
+        "name": "Carrot",
+        "price": [130,210],
+        "unit": "kg"
+    },
+    {
+        "id": 25,
+        "category": 1,
+        "name": "Baguio Beans",
+        "price": [160,180],
+        "unit": "kg"
+    },
+    {
+        "id": 26,
+        "category": 1,
+        "name": "Potato",
+        "price": [140,170],
+        "unit": "kg"
+    },
+    {
+        "id": 27,
+        "category": 1,
+        "name": "Sayote",
+        "price": [50,70],
+        "unit": "kg"
+    },
+    {
+        "id": 28,
+        "category": 1,
+        "name": "Cauliflower",
+        "price": [250,300],
+        "unit": "kg"
+    },
+    {
+        "id": 29,
+        "category": 1,
+        "name": "Celery",
+        "price": [180,250],
+        "unit": "kg"
+    },
+    {
+        "id": 30,
+        "category": 1,
+        "name": "Lettuce",
+        "price": [130,220],
+        "unit": "kg"
+    },
+    {
+        "id": 31,
+        "category": 1,
+        "name": "Kamote",
+        "price": [70,80],
+        "unit": "kg"
+    },
+
+
+
+    {
+        "id": 32,
+        "category": 4,
+        "name": "Bangus",
+        "price": [210,300],
+        "unit": "kg"
+    },
+    {
+        "id": 33,
+        "category": 4,
+        "name": "Tilapia",
+        "price": [150,170],
+        "unit": "kg"
+    },
+    {
+        "id": 34,
+        "category": 4,
+        "name": "Galunggong",
+        "price": [280,300],
+        "unit": "kg"
+    },
+    {
+        "id": 35,
+        "category": 4,
+        "name": "Sardines",
+        "price": [120,200],
+        "unit": "kg"
+    },
+    {
+        "id": 36,
+        "category": 4,
+        "name": "Squid",
+        "price": [420,390],
+        "unit": "kg"
+    },
+    {
+        "id": 37,
+        "category": 4,
+        "name": "Dalagang Bukid Bilog",
+        "price": [678],
+        "unit": "kg"
+    },
+    {
+        "id": 38,
+        "category": 4,
+        "name": "Dalagang Bukid Dapa",
+        "price": [750],
+        "unit": "kg"
+    },
+    {
+        "id": 39,
+        "category": 4,
+        "name": "Salmon Belly",
+        "price": [418],
+        "unit": "kg"
+    },
+    {
+        "id": 40,
+        "category": 4,
+        "name": "Salmon Head",
+        "price": [224],
+        "unit": "pc"
+    },
+    {
+        "id": 41,
+        "category": 4,
+        "name": "Espada",
+        "price": [795],
+        "unit": "kg"
+    },
+    {
+        "id": 42,
+        "category": 4,
+        "name": "Pampano",
+        "price": [725],
+        "unit": "kg"
+    },
+    {
+        "id": 43,
+        "category": 4,
+        "name": "Talangka",
+        "price": [490,580],
+        "unit": "kg"
+    },
+    {
+        "id": 44,
+        "category": 4,
+        "name": "Shrimp Large",
+        "price": [930],
+        "unit": "kg"
+    },
+    {
+        "id": 45,
+        "category": 4,
+        "name": "Shrimp Small",
+        "price": [850],
+        "unit": "kg"
+    },
+    {
+        "id": 46,
+        "category": 4,
+        "name": "Tahong Small",
+        "price": [219],
+        "unit": "kg"
+    },
+    {
+        "id": 47,
+        "category": 4,
+        "name": "Tahong Medium",
+        "price": [250],
+        "unit": "kg"
+    },
+    {
+        "id": 48,
+        "category": 4,
+        "name": "Tahong Large",
+        "price": [290],
+        "unit": "kg"
+    },
+
+
+
+    {
+        "id": 49,
+        "category": 2,
+        "name": "Kalamansi",
+        "price": [70,140],
+        "unit": "kg"
+    },
+    {
+        "id": 50,
+        "category": 2,
+        "name": "Banana Laktan",
+        "price": [70,120],
+        "unit": "kg"
+    },
+    {
+        "id": 51,
+        "category": 2,
+        "name": "Banana Saba",
+        "price": [50,80],
+        "unit": "kg"
+    },
+    {
+        "id": 52,
+        "category": 2,
+        "name": "Papaya",
+        "price": [70,90],
+        "unit": "kg"
+    },
+    {
+        "id": 53,
+        "category": 2,
+        "name": "Mango",
+        "price": [120,200],
+        "unit": "kg"
+    },
+    {
+        "id": 54,
+        "category": 2,
+        "name": "Avocado",
+        "price": [350,425],
+        "unit": "kg"
+    },
+    {
+        "id": 55,
+        "category": 2,
+        "name": "Melon",
+        "price": [120,140],
+        "unit": "kg"
+    },
+    {
+        "id": 56,
+        "category": 2,
+        "name": "Pomelo",
+        "price": [120,170],
+        "unit": "kg"
+    },
+    {
+        "id": 57,
+        "category": 2,
+        "name": "Watermelon",
+        "price": [70,90],
+        "unit": "kg"
+    },
+    {
+        "id": 58,
+        "category": 2,
+        "name": "Apple Red",
+        "price": [57],
+        "unit": "pc"
+    },
+    {
+        "id": 59,
+        "category": 2,
+        "name": "Apple Green",
+        "price": [74],
+        "unit": "pc"
+    },
+    {
+        "id": 60,
+        "category": 2,
+        "name": "Grapes",
+        "price": [845,875],
+        "unit": "kg"
+    },
+    {
+        "id": 61,
+        "category": 2,
+        "name": "Lemon",
+        "price": [38],
+        "unit": "pc"
+    },
+    {
+        "id": 62,
+        "category": 2,
+        "name": "Mangosteen",
+        "price": [390],
+        "unit": "kg"
+    },
+    {
+        "id": 63,
+        "category": 2,
+        "name": "Pineapple",
+        "price": [275],
+        "unit": "pc"
+    },
+    {
+        "id": 64,
+        "category": 2,
+        "name": "Pear",
+        "price": [54],
+        "unit": "pc"
+    },
+    {
+        "id": 65,
+        "category": 2,
+        "name": "Strawberries",
+        "price": [1290],
+        "unit": "kg"
+    },
+
+
+
+    
+    {
+        "id": 66,
+        "category": 5,
+        "name": "Local Special Rice",
+        "price": [52,58],
+        "unit": "kg"
+    },
+    {
+        "id": 67,
+        "category": 5,
+        "name": "Imported Special Rice",
+        "price": [60],
+        "unit": "kg"
+    },
+    {
+        "id": 68,
+        "category": 5,
+        "name": "Local Regular Rice",
+        "price": [30,38],
+        "unit": "kg"
+    },
+    {
+        "id": 69,
+        "category": 5,
+        "name": "Imported Regular Rice",
+        "price": [38],
+        "unit": "kg"
+    },
+    {
+        "id": 70,
+        "category": 5,
+        "name": "Premium Rice",
+        "price": [38,55],
+        "unit": "kg"
+    },
+    {
+        "id": 71,
+        "category": 5,
+        "name": "Local Special Rice",
+        "price": [50,58],
+        "unit": "kg"
+    },
+    {
+        "id": 72,
+        "category": 5,
+        "name": "Imported Special Rice",
+        "price": [60],
+        "unit": "kg"
+    },
+    {
+        "id": 73,
+        "category": 5,
+        "name": "Corn White",
+        "price": [85,100],
+        "unit": "kg"
+    },
+    {
+        "id": 74,
+        "category": 5,
+        "name": "Bread FLour",
+        "price": [62],
+        "unit": "kg"
+    },
+    {
+        "id": 75,
+        "category": 5,
+        "name": "Rice Flour",
+        "price": [80],
+        "unit": "kg"
+    },
+
+
+    {
+        "id": 76,
+        "category": 6,
+        "name": "Chili",
+        "price": [180,250],
+        "unit": "kg"
+    },
+    {
+        "id": 77,
+        "category": 6,
+        "name": "Luya",
+        "price": [120,200],
+        "unit": "kg"
+    },
+    {
+        "id": 78,
+        "category": 6,
+        "name": "Local Bawang",
+        "price": [350,400],
+        "unit": "kg"
+    },
+    {
+        "id": 79,
+        "category": 6,
+        "name": "Imported Bawang",
+        "price": [110,145],
+        "unit": "kg"
+    },
+    {
+        "id": 80,
+        "category": 6,
+        "name": "Red Onion",
+        "price": [100,120],
+        "unit": "kg"
+    },
+    {
+        "id": 81,
+        "category": 6,
+        "name": "White Onion",
+        "price": [65,120],
+        "unit": "kg"
+    },
+    {
+        "id": 82,
+        "category": 6,
+        "name": "Salt Rock",
+        "price": [21],
+        "unit": "kg"
+    },
+    {
+        "id": 83,
+        "category": 6,
+        "name": "Salt Iodized",
+        "price": [38],
+        "unit": "kg"
+    }
+]

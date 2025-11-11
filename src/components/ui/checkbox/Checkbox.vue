@@ -19,7 +19,7 @@ const forwarded = useForwardPropsEmits(delegatedProps, emits)
     props.class)">
     <CheckboxIndicator data-slot="checkbox-indicator" class="grid place-content-center text-current transition-none">
       <slot>
-        <Check class="size-fit" />
+        <Check class="size-full" />
       </slot>
     </CheckboxIndicator>
   </CheckboxRoot>

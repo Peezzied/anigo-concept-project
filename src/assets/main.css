@@ -8,12 +8,16 @@
     font-family: var(--font-body);
   }
   h1 {
-    @apply text-[39px] font-semibold font-heading;
+    @apply text-[39px] font-semibold font-heading leading-12;
   }
 }
 
 @utility container {
   @apply mx-auto max-w-6xl;
+}
+
+@utility container-medium {
+  @apply mx-auto max-w-7xl;
 }
 
 @utility pseudo-container {

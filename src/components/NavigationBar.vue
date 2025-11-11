@@ -2,6 +2,7 @@
 import { RouterLink } from 'vue-router'
 import router from '@/router';
 import { computed } from 'vue';
+import { useCartStore } from '@/stores/useCartStore';
 
 defineProps<{
   colored?: boolean
@@ -9,6 +10,8 @@ defineProps<{
 const routes = computed(() =>
   router.getRoutes().filter(r => r.meta.isNavigation)
 );
+
+const cart = useCartStore()
 
 </script>
 <template>
@@ -29,9 +32,9 @@ const routes = computed(() =>
       <div>
         <RouterLink class="border p-2 corner rounded-xl font-medium flex gap-2 relative" to="/my-basket"
           active-class="bg-accent border-black/0 text-white">
-          <span
+          <span v-if="cart.items.length !== 0"
             class="absolute -top-2 -right-2 bg-accent text-white text-xs font-semibold rounded-full w-5 aspect-square flex items-center justify-center">
-            3
+            {{ cart.items.length }}
           </span>
           <img src="@/assets/icons/basket.svg" alt="">
           <span>My Basket</span>

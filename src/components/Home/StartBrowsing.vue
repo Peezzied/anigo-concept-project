@@ -1,5 +1,12 @@
 <script lang="ts" setup>
-import { categories } from '@/assets/data/categories';
+import { categories, type Category } from '@/assets/data/categories';
+import { useRouter } from 'vue-router';
+
+const router = useRouter()
+
+const select = (cat: Category) => {
+  router.push({name: 'Market', query: { category: cat.id }})
+}
 </script>
 
 <template>
@@ -11,7 +18,7 @@ import { categories } from '@/assets/data/categories';
       </p>
     </div>
     <div class="flex gap-4 mx-auto max-w-7xl h-30 cursor-pointer">
-      <div v-for="i in categories" :key="i.color" :style="{ 'background-color': i.color }" class="flex-1 rounded-xl p-5">
+      <div v-for="i in categories" :key="i.color" @click="select(i)" :style="{ 'background-color': i.color }" class="flex-1 rounded-xl p-5">
         <h2 class="text-2xl font-semibold text-white">{{ i.title }}</h2>
       </div>
     </div>
