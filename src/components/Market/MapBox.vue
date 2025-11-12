@@ -113,7 +113,7 @@ const initMap = async () => {
   map = L.map(mapContainer.value).setView([userLat, userLng], 14);
 
   // Add OpenStreetMap tiles
-  L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', {
+  L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png?api_key=64442ba5-f649-4b06-bbc2-5f7d408e01de', {
     attribution: '© OpenStreetMap contributors',
     minZoom: 14,
     maxZoom: 18
