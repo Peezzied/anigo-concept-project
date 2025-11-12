@@ -8,6 +8,24 @@ import AccordionItem from '@/components/ui/accordion/AccordionItem.vue';
 import AccordionTrigger from '@/components/ui/accordion/AccordionTrigger.vue';
 import { Icon } from '@iconify/vue';
 
+const team = [
+  {
+    name: "Karol John Dela Cruz",
+    role: "Founder/Developer",
+    img: "https://scontent.fmnl31-1.fna.fbcdn.net/v/t39.30808-6/339321781_762164115260228_5553622059739954058_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=osPDbzIdBp8Q7kNvwF3XmVx&_nc_oc=AdksTwv3Yw1-6aql9MnxFudVSVtl56XIwSgWNByxDsCh3mhSwahCHisDJC9agJfjIug&_nc_zt=23&_nc_ht=scontent.fmnl31-1.fna&_nc_gid=dJ1bUz4XmWaEjOY4HuFBFA&oh=00_AfikGllGYnYBW5kKSV3Vguph29zMhkFvOPp4uPDDgpunSw&oe=691990EC"
+  },
+  {
+    name: "John Pork",
+    role: "Public Relations",
+    img: "https://uploads-ssl.webflow.com/5d7e8885cad5174a2fcb98d7/64933f98a477f02e36a282d1_5eddd950e5cf1ec1fa5c2d83_virtual-influencer-john-pork.jpeg"
+  },
+  {
+    name: "Tong Sahur GPT",
+    role: "Co-Developer",
+    img: "https://fbi.cults3d.com/uploaders/41050705/illustration-file/d9655d2f-c8e8-46f6-9965-44e9b4982c07/tung-tung-tung-sahur.jpg"
+  },
+]
+
 </script>
 
 <template>
@@ -15,10 +33,10 @@ import { Icon } from '@iconify/vue';
   <GenericHeader class="grid" first-section="col-1 row-span-3">
     <h1 class="text-5xl text-primary-50 ">About us</h1>
     <template #section>
-      <section class="col-1 row-span-4 items-center flex -mt-25 mb-25 container-medium [&_img]:h-80 [&_img]:flex-1 [&_img]:object-cover [&_img]:rounded-lg [&_img]:w-full [&_img:nth-child(even)]:h-[80%] [&_img]: w-full gap-3 relative z-20">
-        <img src="../assets/img/placeholder.png"  />
-        <img src="../assets/img/placeholder.png"  />
-        <img src="../assets/img/placeholder.png" />
+      <section class="w-full col-1 row-span-4 items-center flex -mt-25 mb-45 container-medium [&_img]:h-80 [&_img]:flex-1 [&_img]:object-cover [&_img]:rounded-lg [&_img:nth-child(even)]:h-[87%]  [&_img]:w-1 gap-3 relative z-20">
+        <img src="https://i.pinimg.com/originals/51/56/52/51565288c746f38c3dbe58bbc62b6de4.jpg"  />
+        <img src="https://tse1.mm.bing.net/th/id/OIP.uvBqOnxD-487tlLqCe1mcAHaEx?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"  />
+        <img src="https://4.bp.blogspot.com/-oD3Ni9RkhPk/UGcCTyGdP4I/AAAAAAAAID8/ip-sxyTnusg/s1600/003.JPG" />
       </section>
     </template>
   </GenericHeader>
@@ -73,11 +91,11 @@ import { Icon } from '@iconify/vue';
         <h1 class="mx-auto mt-4">Who made this initiative possible?</h1>
       </div>
       <div class="flex gap-5">
-        <div class="flex-1 space-y-5" v-for="index in 3">
-          <img src="../assets/img/placeholder.png" class="object-cover w-full h-110 rounded-xl">
+        <div class="flex-1 space-y-5" v-for="i in team">
+          <img :src="i.img" class="object-cover w-full h-110 rounded-xl">
           <div>
-            <h2 class="font-semibold text-2xl">Karol John Dela Cruz</h2>
-            <p class="text-xl font-medium">Founder</p>
+            <h2 class="font-semibold text-2xl">{{i.name}}</h2>
+            <p class="text-xl font-medium">{{i.role}}</p>
           </div>
         </div>
       </div>
@@ -94,7 +112,7 @@ import { Icon } from '@iconify/vue';
                 </template>
               </AccordionTrigger>
               <AccordionContent>
-                taina
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus earum magni similique facere deleniti officia saepe unde nesciunt sapiente iusto.
               </AccordionContent>
             </AccordionItem>
           </Accordion>
@@ -105,11 +123,11 @@ import { Icon } from '@iconify/vue';
           <div class="space-y-3">
             <div class="space-x-3">
               <button class="bg-primary text-primary-50 font-semibold rounded-lg p-2 px-4" @click="$router.push('/market')">Start Browsing</button>
-              <button class="bg-secondary/6 text-primary-50 text-secondary! border border-secondary font-semibold rounded-lg p-2 px-4" @click="$router.push('/contacts')">Become a vendor</button>
+              <button class="bg-secondary/6 text-primary-50 text-secondary! border border-secondary font-semibold rounded-lg p-2 px-4" @click="$router.push('/contact')">Become a vendor</button>
             </div>
             <div>
               <span>Questions? </span>
-              <RouterLink to="/contacts" class="underline">
+              <RouterLink to="/contact" class="underline">
                 <span class="inline font-semibold text-clickable">Contact Us </span>
                 <Icon icon="mdi:arrow-right" class="inline"/>
               </RouterLink>
