@@ -4,7 +4,7 @@ import router from '@/router';
 import { computed } from 'vue';
 import { useCartStore } from '@/stores/useCartStore';
 import Logo from './icons/Logo.vue';
-import Basket from './icons/basket.vue';
+import Basket from './icons/Basket.vue';
 
 defineProps<{
   colored?: boolean
