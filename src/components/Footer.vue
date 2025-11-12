@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Logo from './icons/Logo.vue';
 import Separator from './ui/separator/Separator.vue';
 
 </script>
@@ -6,7 +7,10 @@ import Separator from './ui/separator/Separator.vue';
 <template>
   <footer class="bg-[#59351F] text-[#F4F1EF] spikes mt-50">
     <section class="flex justify-between px-24 pt-20 pb-18">
-      <h1 class="font-logo expanded leading-10 max-w-[555px]">bringing your local market at your fingertips</h1>
+      <div class="flex gap-3">
+        <Logo class="size-14 text-primary"/>
+        <h1 class="font-logo expanded leading-10 max-w-[555px]">bringing your local market at your fingertips</h1>
+      </div>
       <div class="flex gap-20">
         <div>
           <h2 class="text-3xl font-heading font-semibold leading-17">Get started with Anigo.</h2>
@@ -15,7 +19,7 @@ import Separator from './ui/separator/Separator.vue';
               @click="$router.push('/market')">Start Browsing</button>
             <button
               class="bg-secondary/30 text-[#FFF0E9]! border border-secondary font-semibold rounded-lg p-2 px-4"
-              @click="$router.push('/contacts')">Become a vendor</button>
+              @click="$router.push('/contact')">Become a vendor</button>
           </div>
         </div>
         <div>
