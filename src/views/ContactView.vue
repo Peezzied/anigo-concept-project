@@ -156,7 +156,7 @@ const onInquirySubmit = (values: InquiryForm) => {
         </div>
       </section>
       <section class="px-4 ">
-        <Tabs>
+        <Tabs default-value="inquiry">
           <TabsList class="w-full shadow-md bg-[#f7eae0]">
             <TabsTrigger value="inquiry">
               General Inquiry
